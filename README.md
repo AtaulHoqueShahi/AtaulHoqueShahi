@@ -1,19 +1,28 @@
-## Hi 👋, I'm Ataul Hoque Shahi
+<!-- ======================= BANNER ======================= -->
 
-<!--
-**AtaulHoqueShahi/AtaulHoqueShahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img width="2172" height="724" alt="PavelGithubCoverPhoto" src="https://github.com/user-attachments/assets/04c42f35-1099-4033-aa1f-78946c4dc5f1" />
+</p>
 
-Here are some ideas to get you started:
+<!-- ======================= INTRO ======================= -->
 
-About Me
+<h1 align="center">Hi 👋, I'm Ataul Hoque Shahi</h1>
 
-Hi, I'm Ataul Hoque Shahi, a passionate learner on my journey to becoming a Full-Stack Developer.
+<h3 align="center">
+  🌱 Learning Full-Stack Development
+</h3>
 
-🌱 Currently learning Web Development step by step
-💻 Practicing HTML, CSS, JavaScript & TypeScript
-🚀 Exploring React and modern web technologies
-🧠 Working on improving my coding & problem-solving skills
-🔨 Learning by building small projects and practical exercises
-📚 Consistently learning and improving every day
-🎯 My goal is to become a skilled Full-Stack Developer...
--->
+<p align="center">
+  JavaScript • TypeScript • React • Node.js
+</p>
+
+<p align="center">
+  <a href="https://github.com/pavelsolutions">
+    <img src="https://img.shields.io/badge/GitHub-pavelsolutions-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="mailto:pahammed69@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</p>
+
+---
