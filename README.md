@@ -26,141 +26,135 @@ p align="center">
   </a>
 </p>
 
----
 
-## 👨‍💻 About Me
 
-Hi, I'm **Ataul Hoque Shahi**, a passionate learner on my journey to becoming a **Full-Stack Developer**.
 
-🌱 Currently learning **Full-Stack Development**  
-💻 Building projects to strengthen my development skills  
-🚀 Exploring modern frontend and backend technologies  
-🧠 Improving my problem-solving and programming skills  
-🤝 Open to collaboration and beginner-friendly open-source projects  
-📚 Learning by building real-world applications
 
-> **Learn • Build • Improve • Repeat 🚀**
 
----
 
-## 🌱 Currently Learning
 
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black" alt="Webpack">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" alt="Google Cloud">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white" alt="NPM">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
-</p>
+
+
+
+
+
+
+## 🌱 About Me
+
+* 🎓 CSE student at **AIUB**, focused on building strong computer science fundamentals
+* 💻 Building projects to turn what I learn into practical experience
+* 🧠 Exploring **Data Structures, Algorithms, Databases, Linux, and Web Development**
+* 🤖 Learning how to use **AI-assisted development** effectively without losing the fundamentals
+* 🚀 Interested in understanding how software works from **code to deployment**
+* 🎯 Long-term goal: become a **well-rounded software engineer**
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### Languages:
+### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML5">
-  <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS3">
-  <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript">
-  <img src="https://skillicons.dev/icons?i=ts" width="50" alt="TypeScript">
-  <img src="https://skillicons.dev/icons?i=graphql" width="50" alt="GraphQL">
-  <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python">
-</p>
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### CSS Frameworks & Libraries:
+### Currently Exploring
 
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind CSS">
-  <img src="https://skillicons.dev/icons?i=materialui" width="50" alt="Material UI">
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" alt="Bootstrap">
-</p>
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338BDF8.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 
-### JavaScript Frameworks & Libraries:
+### Development & Deployment
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react" width="50" alt="React">
-  <img src="https://skillicons.dev/icons?i=nextjs" width="50" alt="Next.js">
-  <img src="https://skillicons.dev/icons?i=redux" width="50" alt="Redux">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js">
-  <img src="https://skillicons.dev/icons?i=express" width="50" alt="Express.js">
-</p>
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
 
-### Database & ORM:
+### Design
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB">
-  <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL">
-  <img src="https://skillicons.dev/icons?i=postgres" width="50" alt="PostgreSQL">
-  <img src="https://skillicons.dev/icons?i=prisma" width="50" alt="Prisma">
-  <img src="https://skillicons.dev/icons?i=supabase" width="50" alt="Supabase">
-</p>
-
-### Deployment Platform:
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel" width="50" alt="Vercel">
-  <img src="https://skillicons.dev/icons?i=netlify" width="50" alt="Netlify">
-  <img src="https://skillicons.dev/icons?i=firebase" width="50" alt="Firebase">
-</p>
-
-### Design & Graphics:
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" width="50" alt="Figma">
-  <img src="https://skillicons.dev/icons?i=ai" width="50" alt="Adobe Illustrator">
-  <img src="https://skillicons.dev/icons?i=ps" width="50" alt="Adobe Photoshop">
-</p>
-
-### Tools & Technologies:
-
-<p>
-  <img src="https://skillicons.dev/icons?i=windows" width="50" alt="Windows">
-  <img src="https://skillicons.dev/icons?i=ubuntu" width="50" alt="Ubuntu">
-  <img src="https://skillicons.dev/icons?i=notion" width="50" alt="Notion">
-  <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git">
-  <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub">
-  <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code">
-  <img src="https://skillicons.dev/icons?i=postman" width="50" alt="Postman">
-  <img src="https://skillicons.dev/icons?i=docker" width="50" alt="Docker">
-</p>
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
-## 📍 Where to find me
+## 📚 Currently Learning
 
-<p>
-  <a href="https://github.com/AtaulHoqueShahi/">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="@AtaulHoqueShahi">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="www.linkedin.com/in/ataul-hoque-3b787a395">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="YOUR_MEDIUM_URL">
-    <img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
-</p>
+* **Data Structures & Algorithms**
+* **Database Fundamentals**
+* **React & Modern Web Development**
+* **Linux & Command Line**
+* **AI-Assisted Development**
+* Software development workflow:
+  **Plan → Build → Debug → Test → Deploy → Improve**
+<!--
+---
+
+## 🚀 Projects
+
+> Projects will be added here as I build and improve them.
+
+
+### Project Name
+Short description of the project.
+
+[Live Demo](#) • [Repository](#)
+-->
 
 ---
 
-## 📊 GITHUB STATISTICS & ANALYSIS
+## 🌐 Connect with Me
 
-### 🔥 Contribution Streak
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://abir994.pro.bd/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salem-nur-abir/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salemnurabir2@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ar1b_3)
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=pavelsolutions&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-stats-extended.vercel.app/api?username=ABiR994&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ABiR994&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ABiR994&theme=transparent&hide_border=false&timezone=Asia/Dhaka" alt="GitHub streak stats"/>
 </p>
 
 ---
+
+## 🐍 GitHub Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ABiR994/ABiR994/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ABiR994/ABiR994/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ABiR994/ABiR994/output/github-snake.svg">
+</picture>
+
+---
+
+*"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program." — Linus Torvalds* 💻
+
+**Open to collaboration, feedback, and interesting project ideas.**
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,50:2563EB,100:0A0F1E&height=120&section=footer" width="100%"/>
+
+</div>
+---
+
