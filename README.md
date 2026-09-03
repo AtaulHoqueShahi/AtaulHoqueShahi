@@ -1,28 +1,18 @@
-<!-- ======================= BANNER ======================= -->
+<h1 align="center">Hi 👋, I'm Ataul Hoque Shhaz</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center">
-  <img width="2172" height="724" alt="ShahiGithubCoverPhoto" src="Gemini_Generated_Image_wx7yk7wx7yk7wx7y.jpg" />
+- 📫 How to reach me **ahshahi84@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/ataul-hoque-3b787a395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ataul-hoque-3b787a395" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/ah.shahi.2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ah.shahi.2024" height="30" width="40" /></a>
 </p>
 
-<!-- ======================= INTRO ======================= -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<h1 align="center">Hi 👋, I'm Ataul Hoque Shahi</h1>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ataulhoqueshahi&show_icons=true&locale=en&layout=compact" alt="ataulhoqueshahi" /></p>
 
-<h3 align="center">
-  🌱 Learning Full-Stack Development
-</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ataulhoqueshahi&" alt="ataulhoqueshahi" /></p>
 
-<p align="center">
-  JavaScript • TypeScript • React • Node.js
-</p>
-
-<p align="center">
-  <a href="https://github.com/AtaulHoqueShahi">
-    <img src="https://img.shields.io/badge/GitHub-pavelsolutions-black?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="mailto:ahshahi84@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-</p>
-
----
