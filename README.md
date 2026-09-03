@@ -79,10 +79,9 @@ Full-Stack Development
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtaulHoqueShahi&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtaulHoqueShahi&layout=compact&theme=tokyonight" height="170"/>
-</p>
+![Ataul's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtaulHoqueShahi&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtaulHoqueShahi&layout=compact&theme=tokyonight)
 
 ---
 
