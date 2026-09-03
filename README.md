@@ -1,7 +1,7 @@
 <!-- ======================= BANNER ======================= -->
 
 <p align="center">
-  <img width="2172" height="724" alt="PavelGithubCoverPhoto" src="https://github.com/user-attachments/assets/04c42f35-1099-4033-aa1f-78946c4dc5f1" />
+  <img width="2172" height="724" alt="PavelGithubCoverPhoto" src="Gemini_Generated_Image_wx7yk7wx7yk7wx7y.jpg" />
 </p>
 
 <!-- ======================= INTRO ======================= -->
