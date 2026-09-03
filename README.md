@@ -1,12 +1,12 @@
 <!-- ======================= BANNER ======================= -->
 
 <p align="center">
-  <img width="2172" height="724" alt="PavelGithubCoverPhoto" src="https://github.com/user-attachments/assets/04c42f35-1099-4033-aa1f-78946c4dc5f1" />
+  <img width="2172" height="724" alt="ShahiGithubCoverPhoto" src="" />
 </p>
 
 <!-- ======================= INTRO ======================= -->
 
-<h1 align="center">Hi 👋, I'm Pavel Ahammed</h1>
+<h1 align="center">Hi 👋, I'm Ataul Hoque Shahi</h1>
 
 <h3 align="center">
   🌱 Learning Full-Stack Development
@@ -17,10 +17,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/pavelsolutions">
+  <a href="https://github.com/AtaulHoqueShahi">
     <img src="https://img.shields.io/badge/GitHub-pavelsolutions-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="mailto:pahammed69@gmail.com">
+  <a href="mailto:ahshahi84@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </p>
@@ -29,7 +29,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Pavel Ahammed**, a passionate learner on my journey to becoming a **Full-Stack Developer**.
+Hi, I'm **Ataul Hoque Shahi**, a passionate learner on my journey to becoming a **Full-Stack Developer**.
 
 🌱 Currently learning **Full-Stack Development**  
 💻 Building projects to strengthen my development skills  
