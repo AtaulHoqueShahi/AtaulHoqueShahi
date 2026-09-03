@@ -77,21 +77,10 @@ Full-Stack Development
 
 ---
 
-## 📊 GitHub Stats
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtaulHoqueShahi&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtaulHoqueShahi&layout=compact&theme=default" alt="Top Languages" />
-</p>
 
 ---
 
-## 🐍 GitHub Contribution
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AtaulHoqueShahi/AtaulHoqueShahi/output/github-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
 
 ---
 
