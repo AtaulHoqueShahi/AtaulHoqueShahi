@@ -1,12 +1,9 @@
 <!-- ======================= BANNER ======================= -->
 
-<p align="center">
-  <img 
-    width="100%" 
-    alt="ShahiGitHubCoverPhoto" 
-    src="https://raw.githubusercontent.com/AtauLHoqueShani/AtauLHoqueShani/main/1000108704.jpg" 
-  />
+p align="center">
+  <img width="2172" height="724" alt="PavelGithubCoverPhoto" src="https://github.com/user-attachments/assets/04c42f35-1099-4033-aa1f-78946c4dc5f1" />
 </p>
+
 
 <!-- ======================= INTRO ======================= -->
 
