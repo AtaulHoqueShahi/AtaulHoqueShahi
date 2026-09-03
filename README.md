@@ -1,7 +1,11 @@
 <!-- ======================= BANNER ======================= -->
 
 <p align="center">
-  <img width="2172" height="724" alt="ShahiGithubCoverPhoto" src="" />
+  <img 
+    width="100%" 
+    alt="ShahiGitHubCoverPhoto" 
+    src="https://raw.githubusercontent.com/AtauLHoqueShani/AtauLHoqueShani/main/1000108704.jpg" 
+  />
 </p>
 
 <!-- ======================= INTRO ======================= -->
