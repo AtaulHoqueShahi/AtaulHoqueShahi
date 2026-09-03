@@ -1,7 +1,7 @@
 <!-- ======================= BANNER ======================= -->
 
 p align="center">
-  <img width="2172" height="724" alt="ShahiGithubCoverPhoto" src="https://i.imgur.com/nOQcVWl.jpeg" />
+  <img width="2172" height="724" alt="ShahiGithubCoverPhoto" src="https://i.imgur.com/Kqjqx0z.png" />
 </p>
 
 
