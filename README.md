@@ -135,13 +135,13 @@ Hi, I'm **Ataul Hoque Shahi**, a passionate learner on my journey to becoming a 
 ## 📍 Where to find me
 
 <p>
-  <a href="https://github.com/pavelsolutions">
+  <a href="https://github.com/AtaulHoqueShahi/">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="YOUR_TWITTER_URL">
+  <a href="@AtaulHoqueShahi">
     <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/ataul-hoque-3b787a395">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="YOUR_MEDIUM_URL">
