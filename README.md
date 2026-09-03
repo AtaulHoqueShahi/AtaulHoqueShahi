@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="ShahiGithubCoverPhoto" width="100%" alt="https://i.imgur.com/nOQcVWl.jpeg">
-</p>
+  <img width="2172" height="724" alt="PavelGithubCoverPhoto" src="https://i.imgur.com/77zWYse.png" />
+</p>>
 
 <h1 align="center">👋 Hi, I'm Ataul Hoque Shahi</h1>
 
