@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ShahiGithubCoverPhoto.png" width="100%" alt="https://i.imgur.com/nOQcVWl.jpeg">
+  <img src="ShahiGithubCoverPhoto" width="100%" alt="https://i.imgur.com/nOQcVWl.jpeg">
 </p>
 
 <h1 align="center">👋 Hi, I'm Ataul Hoque Shahi</h1>
