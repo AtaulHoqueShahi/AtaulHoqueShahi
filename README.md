@@ -1,6 +1,6 @@
-<p align="center">
-  <img width="2172" height="724" alt="PavelGithubCoverPhoto" src="https://i.imgur.com/77zWYse.png" />
-</p>>
+<img width="1983" height="793" alt="ChatGPT Image Sep 3, 2026, 12_58_13 PM" src="https://github.com/user-attachments/assets/d5dcbfd6-75d2-45ea-8aa0-556dcac3b8f1" />
+
+
 
 <h1 align="center">👋 Hi, I'm Ataul Hoque Shahi</h1>
 
