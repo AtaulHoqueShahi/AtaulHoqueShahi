@@ -12,16 +12,25 @@
 
 ---
 
-## 🌱 About Me
+🌱 About Me
 
-* 🎓 Diploma student at **Feni Computer Institute**
-* 📡 Studying **Telecommunication Technology**
-* 💻 Currently learning **Full-Stack Web Development**
-* 🌐 Learning **HTML, CSS, JavaScript & TypeScript**
-* ⚛️ Currently exploring **React & Tailwind CSS**
-* 🚀 Building projects to turn my learning into practical experience
-* 📚 Improving my programming and problem-solving skills
-* 🎯 Long-term goal: Become a **skilled Full-Stack Developer**
+🎓 Diploma student at Feni Computer Institute
+
+📡 Studying Telecommunication Technology
+
+💻 Experienced in building web development projects
+
+🌐 Skilled in HTML, CSS, JavaScript & TypeScript
+
+⚛️ Working with React, Next.js & Tailwind CSS
+
+🗄️ Familiar with MongoDB & Backend Integration
+
+🚀 Building practical projects and exploring new technologies
+
+🧠 Passionate about problem-solving and continuous improvement
+
+🎯 Goal: To become a professional Full-Stack Developer
 
 ---
 
@@ -34,7 +43,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
-### ⚛️ Currently Learning
+
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
@@ -47,7 +56,7 @@
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently 
 
 * ⚡ JavaScript & ES6+
 * 🔷 TypeScript
