@@ -4,10 +4,10 @@
 
 <h1 align="center">👋 Hi, I'm Ataul Hoque Shahi</h1>
 
-<h3 align="center">💻 Aspiring Full-Stack Developer | 🌱 Continuous Learner</h3>
+<h3 align="center">💻 Web Developer | 🚀 Building & Creating</h3>
 
 <p align="center">
-  I'm currently learning Full-Stack Web Development and building projects to improve my skills.
+I'm a Web Developer with hands-on experience in building web projects and developing modern web applications. I enjoy turning ideas into functional and user-friendly digital experiences.
 </p>
 
 ---
